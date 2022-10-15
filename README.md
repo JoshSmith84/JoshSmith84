@@ -3,7 +3,7 @@
 My name is Josh. I work in IT. Specifically onboarding/offboarding clients for the MSP I work for. I handle the tasks related to rolling out toolsets (RMM, AV, MDR, etc) through automation.
 While most of that automation is built around the RMM leveraging Powershell, Windows batch, etc, I have absolutely fallen in love with Python, and wish I could use it more at work. It's quickly taking over my other hobbies such as Chess and music.
 
-I've decided I want to make Python more than a hobby. Therefore, I am continually learning Python, strengthening my programming basics through reptition.
+I've decided I want to make Python more than a hobby. 
 
 I’m currently working on any and all projects I have an idea for. Incorporating as many libraries/modules as I can. Tutorials and Udemy courses are great (Big thanks to teachers such as Tim Buchalka and Al Sweigart who make this process easier than it would be otherwise), but I learn best by working on real projects. 
 
