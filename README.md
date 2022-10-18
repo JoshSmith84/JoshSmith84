@@ -1,9 +1,9 @@
 ### Hello 👋
 
 My name is Josh. I work in IT. Specifically onboarding/offboarding clients for the MSP I work for. I handle the tasks related to rolling out toolsets (RMM, AV, MDR, etc.) through automation.
-Most of that automation is built around the RMM leveraging Powershell, Windows batch, etc. 
+Most of that automation is built around the RMM leveraging Powershell, batch scripts, etc. 
 
-I have absolutely fallen in love with Python even though I don't get the chance to use it very much at work directly (aside from the time I had to onboard a client from Itarian..). Coding with Python is quickly taking over my other hobbies though.
+Though, I have absolutely fallen in love with Python even I don't get the chance to use it very much at work directly (aside from the time I had to onboard a client from Itarian..). Coding with Python is quickly taking over my other hobbies though.
 
 I've decided I want to make programming more than a hobby. 
 
